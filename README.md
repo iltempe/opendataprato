@@ -1,2 +1,2 @@
-# MapparePrato
-Software tools for Openstreetmap Projects of my city Prato in tuscany
+# OpenPrato
+Opendata for Prato citizens
