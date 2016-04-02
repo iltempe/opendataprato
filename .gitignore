@@ -4,3 +4,11 @@ script_samples/add_data.sh
 script_samples/update_data_08_16.sh
 
 script_samples/rischi.sh
+
+tools/rischi.xml
+
+tools/update_data_08_16.sh
+
+tools/add_data.sh
+
+tools/rischi.sh
