@@ -12,3 +12,5 @@ tools/update_data_08_16.sh
 tools/add_data.sh
 
 tools/rischi.sh
+
+tools/update_rischi.sh
