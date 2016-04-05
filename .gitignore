@@ -18,3 +18,9 @@ tools/update_rischi.sh
 tools/update_data.sh
 
 tools/osm.sh
+
+tools/add.sh
+
+tools/update.sh
+
+tools/ChinesePlaces.geojson
