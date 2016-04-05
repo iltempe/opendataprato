@@ -14,3 +14,7 @@ tools/add_data.sh
 tools/rischi.sh
 
 tools/update_rischi.sh
+
+tools/update_data.sh
+
+tools/osm.sh
