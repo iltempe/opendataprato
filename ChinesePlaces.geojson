@@ -1,1 +1,1 @@
-[out:json];area(3600280245)->.searchArea;(node["name:zh"](area.searchArea);way["name:zh"](area.searchArea);relation["name:zh"](area.searchArea);)
+{ message: 'Request failed: HTTP 400', statusCode: 400 }
