@@ -24,3 +24,9 @@ tools/add.sh
 tools/update.sh
 
 tools/ChinesePlaces.geojson
+
+tools/scrape.py
+
+tools/inmates.csv
+
+tools/prova.sh
