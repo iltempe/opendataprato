@@ -1,0 +1,2 @@
+#!/bin/bash
+rm wifi-free.geojson && curl -L "http://odn.comune.prato.it/geonetwork/srv/en/resources.get?uuid=f7077224-bf61-4b1e-904b-f3668ef80859&fname=wifi_copertura.kml&access=private" > wifi_copertura.kml && ogr2ogr -f GeoJSON wifi-free.geojson /root/opendataprato/wifi_copertura.kml && ./update.sh wifi-free.geojson
