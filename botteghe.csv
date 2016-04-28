@@ -1,0 +1,83 @@
+TIPOLOGIA,NOME,VIA,CITTA',CAP,PROVINCIA,EMAIL,TELEFONO,FAX,LAT,LONG,ORGANO VALIDAZIONE,ID
+RISTORANTE,"Ristorante ""La Cantina di Toia""","Piazza Toia, 12 - Bacchereto",CARMIGNANO,59015,Prato,cantinaditoia@libero.it,0558 717135 - 0558 717167,0558 717135,"43,80758000000","10,98744700000",-,159
+RISTORANTE,RISTORANTE DA DELFINA,"Via della Chiesa, 1","Artimino, CARMIGNANO",59015,Prato,posta@dadelfina.it,055 8718074,055 8718175,"43,83839200000","11,00092800000",Confcommercio,2019
+RISTORANTE,Ristorante Enoteca Antica Torre,Piazza Matteotti 15,CARMIGNANO,59015,Prato,info@hotelvillasanmichele.com,055 8715872  -  055 8712096,055 8711564,"43,81348150000","11,01799140000",Confcommercio,2132
+RISTORANTE,Antica Osteria dei Mercanti,via Ser Lapo Mazzei  8,CARMIGNANO,59015,Prato,info@osteriadeimercanti.net,055 8711587  / 345 1560760,,"43,81346090000","11,01889100000",Confcommercio,2424
+BOTTEGA,Il Bacco Goloso,"Via 5 martiri,3","Artimino, CARMIGNANO",59015,Prato,simona.c75@virgilio.it,055 8751433,055 8751433,"43,81431840000","11,01948170000",Regione Toscana,2180
+BOTTEGA,"Macelleria ""Beef & Pork""",Via Baccheretana 241,"Seano, CARMIGNANO",59011,Prato,beefepork@aliceposta.it,055 8706041,055 8706041,"43,83090440000","11,02128660000",Confcommercio,2438
+RISTORANTE,"Ristorante ""Lo Schiaccianoci""","Via Oste, 39",MONTEMURLO,59013,Prato,,0574 791045,,"43,90327000000","11,02937900000",-,190
+RISTORANTE,Osteria Beccaceci,"Via Venezia, 6","Oste, MONTEMURLO",59013,Prato,,0574 680266,,"43,90780900000","11,03320300000",-,160
+RISTORANTE,Ristorante La Furba,Via Statale 99,"Poggetto, POGGIO A CAIANO",59016,Prato,la.furba@virgilio.it,055 8705316,,"43,82791730000","11,03942070000",Confcommercio,2020
+RISTORANTE,RISTORANTE CASA LA QUERCE,via la querce 43.45.47,MONTEMURLO,59013,Prato,news@ristorantecasalaquercemontemurlo.it,0574683590,,"43,92173450000","11,03944590000",Regione Toscana,2428
+BOTTEGA,Ristorante Biagio Pignatta Artimino,"Viale Papa Giovanni XXIII, 1","Artimino, CARMIGNANO",59015,Prato,ristorante@artimino.com,055 8751406 /427,,"43,78230400000","11,04260400000",Confesercenti,1756
+RISTORANTE,Biagio Pignatta,Viale Papa Giovanni XXIII,CARMIGNANO,59015,Prato,ristorante@artimino.com,055 8751406,,"43,78274884402","11,04300886894",-,1238
+RISTORANTE,Villa La Ferdinanda,Viale Papa Giovanni XXIII,CARMIGNANO,59015,Prato,villa@artimino.com,055 8751426,,"43,78274884402","11,04300886894",-,1239
+BOTTEGA,Salumificio Macelleria Mannori Mario Angiolo,"Via Vergaio, 18/20",PRATO,59100,Prato,mannori54b@tiscali.it,0574-811537,0574-811537,"43,88061330000","11,04581450000",Confcommercio,1788
+BOTTEGA,ALLA GUSTERIA NUNQUAM,Via P. Ciotti 3/A/1,"Tavola, PRATO",59014,Prato,info@allagusteria.it,0574 623992,0574 666712,"43,84597110000","11,04885200000",Confcommercio,1791
+BOTTEGA,Alla Gusteria-Osteria de' ciotti,Via Pompeo Ciotti 3a/1,"Tavola, PRATO",59100,Prato,info@allagusteria.it,0574623992,0574666712,"43,84597110000","11,04885200000",Confcommercio,2525
+RISTORANTE,Villa Le Farnete,"Via Macia, 136","Comeana, CARMIGNANO",59015,Prato,info@ristorantelefarnete.it,055 8719747,055 8716194,"43,79630940000","11,04980570000",Confcommercio,1321
+RISTORANTE,"Rosticceria ""Il Baba""","Via della Lastruccia, 21/A",PRATO,,Prato,micra73@tiscali.it,0574 660658,0574 660658,"43,88547700000","11,05119800000",-,935
+BOTTEGA,"Rosticceria ""Il Baba""","Via della Lastruccia, 21/A","0574 660658 , PRATO",59100,Prato,micra73@tiscali.it,0574 660658,Prato,"43,88547700000","11,05119800000",-,1706
+RISTORANTE,Arcimboldo,"Via Per Iolo, 2",PRATO,59100,Prato,arcimboldowinebar@alice.it,0574 669088,,"43,87017868049","11,05371860556",-,1192
+BOTTEGA,Antico Forno Carnera S.a.s.,"Via Giovanni Pieraccioli , 11","Galciana, PRATO",59100,Prato,anticofornocarnera1962@gmail.com,3395415232,,"43,88746160000","11,05558900000",Regione Toscana,2537
+BOTTEGA,Delizie Toscane,Via Ciulli 21/D,"Galciana, PRATO",59100,Prato,andrea.pecchioli@hotmail.it,0574 660279,0574 660279,"43,88927220000","11,05706140000",Confcommercio,1794
+RISTORANTE,Ristorante Il Falcone,Piazza XX Settembre 34,POGGIO A CAIANO,59016,Prato,info@ristoranteilfalcone.net,055 877065,,"43,81554300000","11,05842300000",Confcommercio,1994
+RISTORANTE,Le Fontanelle,"Via Traversa  Il Crocifisso, 7",PRATO,59100,Prato,info@lefontanellehotel.it,0574 730373,0574 735734,"43,84712240000","11,06470610000",Confcommercio,189
+BOTTEGA,"Alimentari Enoteca ""Le Volte""","Via Roma, 409","Cafaggio, PRATO",59100,Prato,levolte@alice.it,0574 631542,0574 631542,"43,85690390000","11,08057320000",Confcommercio,1740
+RISTORANTE,Il Capriolo,"Via Roma, 306","Grignano, PRATO",59100,Prato,info@ristorantecapriolo.it,0574 1825326,0574 1825326,"43,86247020000","11,08253560000",Confcommercio,2001
+RISTORANTE,I'Barroccio Antica Trattoria di Galceti,via di Galceti 105,PRATO,59100,Prato,trattoriaibarroccio@gmail.com,0574465970,,"43,90827360000","11,08433260000",Regione Toscana,3008
+RISTORANTE,Sfakinais the restaurant,via Torquato Tasso 17,PRATO,59100,Prato,lapostadijonathan@gmail.com,+393203413769,,"43,87063800000","11,08651830000",Confesercenti,2480
+BOTTEGA,Alimentari Roccabianca,"Via Busento, 2","0574 461925 , PRATO",59100,Prato,alimentariroccabianca@virgilio.it,0574 462839,Prato,"43,89769409756","11,08767659857",Confcommercio,1702
+BOTTEGA,ALIMENTARI ROCCABIANCA,VIA BUSENTO 2,PRATO,59100,Prato,alimentariroccabianca@virgilio.it,0574 462839,0574 461925,"43,89766670000","11,08773540000",Confesercenti,2394
+RISTORANTE,Alimentari Roccabianca,"Via Busento, 2",PRATO,,Prato,,0574 462830,0574 461925,"43,89768200000","11,08774300000",-,941
+RISTORANTE,Il Decanter,"Via F. Carlesi, 23",PRATO,59100,Prato,info@decanteristorante.it,0574 475476,0574 39490,"43,90505270000","11,08964590000",Confcommercio,1198
+BOTTEGA,macelleria giagnoni srl,via dei ciliani 122,PRATO,59100,Prato,enrico.giagnoni@fastwebnet.it,0574-466752,prato,"43,89236313492","11,09068188180",Confcommercio,1724
+RISTORANTE,Da Giovanni - Cavallino Rosso,"Via Curtatone, 1/3 - Via Pistoiese 26/28",PRATO,59100,Prato,cavallinorosso.prato@gmail.com,0574 23143,0574 484294,"43,88306150000","11,09143100000",Confcommercio,192
+BOTTEGA,Gastronomia Da que' ragazzi,"Via Filicaia, 6/8",PRATO,59100,Prato,elisafusi@ymail.com,0574 33988,0574 33988,"43,88705730000","11,09256860000",Confcommercio,1776
+BOTTEGA,Gastronomia Tempestini dal 1954,"Via Ciliani, 84","0574 466671, PRATO",59100,Prato,mm.matteucci@gmail.com,0574 466671,0574 466671,"43,89152110000","11,09260050000",Confcommercio,1690
+RISTORANTE,Sotto I'Campanile Santa Trinita,"Via Roma, 2/4",PRATO,59100,Prato,sottoicampanile@gmail.com,0574/621326,,"43,87640300000","11,09343490000",Confesercenti,2213
+BOTTEGA,Lo Schiaccino,Via Santa Caterina 1,"Centro storico, PRATO",59100,Prato,loschiaccino@gmail.com,0574 605154,,"43,87966720000","11,09365340000",Confcommercio,2055
+RISTORANTE,MADDALENA,Piazza Sant'Agostino 2,"centro storico, PRATO",59100,Prato,libo2010@live.it,338 6511245,,"43,88355740000","11,09579610000",Confcommercio,2405
+RISTORANTE,Falciani Gianfranco,"Via Medaglie d'oro, 20/bc",PRATO,,Prato,,0574 465717,,"43,89373700000","11,09623600000",-,942
+BOTTEGA,Falciani Gianfranco,"Via Medaglie d'oro, 20/bc",PRATO,59100,Prato,,0574 465717,Prato,"43,89373700000","11,09623600000",Confcommercio,1704
+BOTTEGA,FALCIANI CARNI,VIA MEDAGLIE D'ORO 20/BC,PRATO,59100,Prato,effefalciani@alice.it,0574 465717,,"43,89373870000","11,09648350000",Confesercenti,2393
+RISTORANTE,Enoteca Gori,"Via Guizzelmi, 20",PRATO,,Prato,fabiogori68@virgilio.it,347 9153511,,"43,88293800000","11,09686900000",-,940
+BOTTEGA,Enoteca Gori,"Via Guizzelmi, 20",PRATO,59100,Prato,info@enotecagori.it,39.347.91.53.511,Prato,"43,88303180000","11,09700790000",Confcommercio,1703
+BOTTEGA,La Fattoressa Salumeria di Lotti,"via della Sirena, 3-5",PRATO,59100,Prato,stefano.lotti@tin.it,0574 27606,0574 27606,"43,88261230000","11,09701950000",Confesercenti,1763
+BOTTEGA,-aTipico- il Punto vendita della Strada dei Vini di Carmignano e dei Sapori Tipici Pratesi,via Ricasoli 13,"centro storico, PRATO",59100,Prato,info@stradavinicarmignano.it,346 1441364,,"43,88053310000","11,09704720000",Confcommercio,1744
+BOTTEGA,ENOTECA GORI,VIA DEL SERRAGLIO N. 39,PRATO,59100,Prato,info@enotecagori.it,347.91.53.511,,"43,88366630000","11,09736140000",Confesercenti,2360
+RISTORANTE,Le Barrique wine bar,"Corso Mazzoni, 19",PRATO,59100,Prato,s.marinai1@hotmail.it,0574 30151,0574 30151,"43,88146480000","11,09759370000",Confcommercio,938
+BOTTEGA,Enogastronomia Biesse frutta e verdura,"via Pagli, 17/19",PRATO,59100,Prato,info@alimentaribiesse.com,0574 461885,,"43,89386080000","11,09780230000",Confesercenti,1764
+RISTORANTE,Aroma Di...Vino,"Via S. Stefano, 24",PRATO,59100,Prato,info@pratoaromadivino.it,0574 433800 - 3289557490,0574 433800,"43,88177550000","11,09850860000",Confcommercio,793
+BOTTEGA,Pastificio Ferraboschi,"Via dei Tintori, 81","centro storico, PRATO",59100,Prato,patriziaferraboschi@virgilio.it,0574 21638,0574 21638,"43,88218180000","11,09867720000",Confcommercio,1691
+BOTTEGA,La Bottega di Mugnai Orlando,"Via Zarini, 222","0574 596943, PRATO",59100,Prato,info@labottegadimungai.it,0574 596943,,"43,87007490000","11,09957220000",Confcommercio,1735
+RISTORANTE,Lo Scoglio,"Via Verdi, 42",PRATO,59100,Prato,loscoglioprato@interfree.it,0574 22460,0574 23345,"43,87993010000","11,09991130000",Confcommercio,936
+RISTORANTE,osteria Cibbč,"via Mercatale, 49",PRATO,59100,Prato,info@cibbe.it,0574 607509,0574 607509,"43,88226700000","11,10036900000",-,1147
+RISTORANTE,Il Palazzolo,"Via Mazzini, 37",PRATO,59100,Prato,info@ilpalazzolo.it,0574 400730,0574 400730,"43,87878000000","11,10049510000",Confcommercio,1166
+RISTORANTE,"Ristorante ""La Veranda""","Via dell'Arco, 10/12",PRATO,59100,Prato,info@ristorantelaveranda.it,0574 38235,0574 38235,"43,87760920000","11,10072880000",Confcommercio,188
+RISTORANTE,Osteria Cibbč,"Piazza Mercatale, 49",PRATO,59100,Prato,info@cibbe.it,0574 607509,0574 607509,"43,88154860000","11,10092640000",Confesercenti,191
+BOTTEGA,LUPP,www.lupp.it,PRATO,59100,Prato,sara.giannatempo@imksrl.it,3401012233,,"43,87770490000","11,10222800000",Confcommercio,2154
+RISTORANTE,Razmataz,"Piazza Mercatale, 110",PRATO,59100,Prato,enotecarazmataz@gmail.com,0574 448619,0574 1795340,"43,87911450000","11,10233540000",Confcommercio,792
+BOTTEGA,Rino & Renato Emporio Alimentare,"Via Gobetti Piero, 1",PRATO,59100,Prato,renatopale@aliceposta.it,0574 30713,0574 30713,"43,88133700000","11,10295680000",Confcommercio,1689
+BOTTEGA,Gastronomia Rudy e Marco,"via Gobetti, 24 a",PRATO,,Prato,,0574 39120,,"43,88187196435","11,10381548180",-,1762
+RISTORANTE,Il Ghirighio,"Via di Migliana, 29","Migliana, CANTAGALLO",59025,Prato,info@ilghirighio.it,0574 981103,,"43,99693630000","11,10543540000",Confcommercio,1179
+RISTORANTE,Pepenero,"Via Zarini, 289",PRATO,59100,Prato,ristorantepepenero@hotmail.it,0574 550353,0574 550353,"43,86782780000","11,10551410000",Confcommercio,193
+RISTORANTE,Il Piccolo Borgo,Via del Ferro 390,"S. Maria a Colonica, PRATO",59100,Prato,ilpiccoloborgo@gmail.com,0574 643060,0574 643060,"43,83998740000","11,10618660000",Confcommercio,1199
+BOTTEGA,Latteria Alimentari Ortofrutta Zarini,Via Zarini 327,PRATO,59100,Prato,uffsegreteria@confesercenti.prato.it,0574 575862,,"43,86766500000","11,10626000000",Confesercenti,2348
+BOTTEGA,Latteria Zarini,"Via Zarini, 327",PRATO,59100,Prato,torricellisimone@pec.it,0574 575862,Prato,"43,86725000000","11,10706000000",Confcommercio,1705
+RISTORANTE,Latteria Zarini,"Via Zarini, 327",PRATO,,Prato,,0574 575862,,"43,86724900000","11,10707600000",-,939
+BOTTEGA,"Cooperativa Vinicola ""Chianti Montalbano""",Via Francesco Ferrucci 172/C,PRATO,59100,Prato,info@pianetadivino.it,0574578046,0574578046,"43,87169010000","11,10761720000",Confesercenti,1749
+RISTORANTE,Osteria Le Cento Buche,"Via degli Abatoni, 9/7","Santa Lucia, PRATO",59100,Prato,lecentobuche@gmail.com,0574 694312 - 320 8960895,,"43,90483080000","11,11067860000",Confcommercio,2018
+RISTORANTE,Enosteria Mangia,"Via F.Ferrucci, 173",PRATO,59100,Prato,mely.luca@me.com,0574 572917,,"43,86725180000","11,11093260000",Confcommercio,794
+RISTORANTE,Osteria,"Viale della Repubblica, 196",PRATO,,Prato,info@osteriaprato.it,0574 590564,,"43,86562635941","11,11147127009",-,937
+BOTTEGA,Il Buongustaio,"Via Catani, 38/40",PRATO,59100,Prato,bim.ba_po@libero.it,0574 593398,,"43,86391890000","11,11252710000",Confcommercio,1743
+BOTTEGA,Alimentari Meucci,Via Bologna 515/A,"Santa Lucia, PRATO",59100,Prato,alessandro.ale64@gmail.com,0574/466030,0574/466030,"43,90686480000","11,11554110000",Confcommercio,2475
+RISTORANTE,Logli Mario,via di Carteano 1,"Filettole, PRATO",59100,Prato,clarissa.pozzarini@gmail.com,0574 23010,0574 23010,"43,89200340000","11,11647210000",Confcommercio,2013
+RISTORANTE,La Limonaia di Villa Rospigliosi,"via Firenze, 83",PRATO,59100,Prato,info@ristorantelalimonaia.it,0574 592515,0574 752893,"43,87166330000","11,11967240000",Confcommercio,2014
+BOTTEGA,Macelleria Fiorentina,"via Firenze, 40c",PRATO,50100,Prato,macelleriafiorentina@gmail.com,0574 984600,,"43,87027370000","11,12267130000",Confcommercio,1761
+BOTTEGA,Uscio e Bottega,via Braga 227,PRATO,59021,Prato,uscioebottega@libero.it,3933375339,vaiano,"43,97054489525","11,12406613892",-,1765
+BOTTEGA,MACELLERIA E SALUMIFICIO TRONO,VIA DELLA CHIESA 4,CANTAGALLO,59025,Prato,montini.giacomo@virgilio.it,0574 981722,,"44,05746600000","11,12707000000",Confcommercio,2146
+BOTTEGA,Enogastronomia Calamai,"via Firenze, 393",PRATO,59100,Prato,info@enogastronomiacalamai.it,0574 550009 - 339 5691903,,"43,86189690000","11,13705160000",Confesercenti,1766
+RISTORANTE,"Ristorante ""La Vecchia Bottega""","Via La Bottega, 68",VERNIO,,Prato,lavecchiabottega.srl@libero.it,0574 950051,,"44,03378800000","11,14012400000",-,197
+BOTTEGA,Alimentari Tacconi,"Via Roma, 85","S. Quirico, VERNIO",59024,Prato,paola.tacconi@alice.it,333 9475768,,"44,05215250000","11,15610600000",Confcommercio,1793
+BOTTEGA,Alimentari Tacconi,Via Roma 85,VERNIO,,Prato,,333 9475768,,"44,05194367468","11,15624572142",-,1805
