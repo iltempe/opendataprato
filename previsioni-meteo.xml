@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>10/05/2016 09:26</aggiornamento>
-<time_ms>1462865189000</time_ms>
+<aggiornamento>10/05/2016 14:10</aggiornamento>
+<time_ms>1462882243000</time_ms>
 <almanacco><sole_sorge>05:56</sole_sorge><sole_tramonta>20:28</sole_tramonta><sole_altezza>64.3°</sole_altezza><ora_altezza>13:12</ora_altezza><luna_sorge>09:23</luna_sorge><luna_tramonta>-</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
@@ -55,20 +55,20 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="2" ora="giorno" datadescr="Mercoledì">
-    <simbolo descr="pioggia moderata-forte" image_name="pioggia_debole.png" image_type="C"/>
+    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
     <uv>2</uv>
     <temp temp_type="min">15</temp> 
     <temp temp_type="max">21</temp> 
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="basso" image_name="basso.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="basso" image_name="idrogeologico_basso.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Mercoledì">
     <simbolo descr="pioggia debole" image_name="pioggia_debole1_luna.png" image_type="C"/>
@@ -92,7 +92,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="2" ora="pomeriggio" datadescr="Mercoledì">
-    <simbolo descr="pioggia moderata-forte" image_name="pioggia_debole.png" image_type="C"/>
+    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">21</temp> 
