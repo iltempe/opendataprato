@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>07/06/2016 09:57</aggiornamento>
-<time_ms>1465286269000</time_ms>
+<aggiornamento>07/06/2016 15:08</aggiornamento>
+<time_ms>1465304917000</time_ms>
 <almanacco><sole_sorge>05:35</sole_sorge><sole_tramonta>20:54</sole_tramonta><sole_altezza>69.3°</sole_altezza><ora_altezza>13:15</ora_altezza><luna_sorge>08:06</luna_sorge><luna_tramonta>22:59</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
@@ -44,7 +44,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="1" ora="sera" datadescr="Martedì">
-    <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">21</temp> 
@@ -81,7 +81,7 @@
     <um>75</um>
 </previsione>
 <previsione idday="2" ora="mattina" datadescr="Mercoledì">
-    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">22</temp> 
@@ -174,7 +174,7 @@
     <um></um>
 </previsione>
 <previsione idday="5" ora="giorno" datadescr="Sabato">
-    <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3.png" image_type="C"/>
+    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
     <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
     <simbolo descr="diminuzione" image_name="temp_giu.png" image_type="T"/>
     <inversione>false</inversione>
