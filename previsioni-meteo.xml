@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>13/06/2016 09:22</aggiornamento>
-<time_ms>1465802552000</time_ms>
+<aggiornamento>13/06/2016 14:52</aggiornamento>
+<time_ms>1465822377000</time_ms>
 <almanacco><sole_sorge>05:34</sole_sorge><sole_tramonta>20:58</sole_tramonta><sole_altezza>69.7°</sole_altezza><ora_altezza>13:16</ora_altezza><luna_sorge>14:14</luna_sorge><luna_tramonta>01:53</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
@@ -62,13 +62,13 @@
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="basso" image_name="basso.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="basso" image_name="idrogeologico_basso.png" image_type="A"/>
+    <rischio descr="temporali" value="basso" image_name="temporali_basso.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Martedì">
     <simbolo descr="pioggia moderata-forte" image_name="pioggia_debole_luna.png" image_type="C"/>
@@ -115,7 +115,7 @@
 </previsione>
 <previsione idday="3" ora="giorno" datadescr="Mercoledì">
     <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3.png" image_type="C"/>
-    <uv>9</uv>
+    <uv>8</uv>
     <temp temp_type="min">17</temp> 
     <temp temp_type="max">25</temp> 
     <inversione>false</inversione>
@@ -158,8 +158,8 @@
     <simbolo descr="velato" image_name="stratificata2_luna.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">21</temp> 
-    <temp temp_type="perc">21</temp>
+    <temp temp_type="">20</temp> 
+    <temp temp_type="perc">20</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>67</um>
