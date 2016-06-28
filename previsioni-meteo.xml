@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>27/06/2016 09:17</aggiornamento>
-<time_ms>1467011875000</time_ms>
+<aggiornamento>27/06/2016 15:04</aggiornamento>
+<time_ms>1467032648000</time_ms>
 <almanacco><sole_sorge>05:37</sole_sorge><sole_tramonta>21:01</sole_tramonta><sole_altezza>69.8°</sole_altezza><ora_altezza>13:19</ora_altezza><luna_sorge>00:49</luna_sorge><luna_tramonta>13:00</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <uv>8</uv>
     <temp temp_type="min">23</temp>
-    <temp temp_type="max">30</temp>
+    <temp temp_type="max">29</temp>
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -25,8 +25,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">24</temp>
-    <temp temp_type="perc">24</temp>
+    <temp temp_type="">23</temp>
+    <temp temp_type="perc">23</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>60</um>
@@ -36,8 +36,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">30</temp> 
-    <temp temp_type="perc">30</temp>
+    <temp temp_type="">29</temp> 
+    <temp temp_type="perc">29</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>40</um>
@@ -81,7 +81,7 @@
     <um>70</um>
 </previsione>
 <previsione idday="2" ora="mattina" datadescr="Martedì">
-    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
+    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">24</temp> 
@@ -115,7 +115,7 @@
 </previsione>
 <previsione idday="3" ora="giorno" datadescr="Mercoledì">
     <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
-    <uv>9</uv>
+    <uv>8</uv>
     <temp temp_type="min">17</temp> 
     <temp temp_type="max">32</temp> 
     <inversione>false</inversione>
@@ -158,17 +158,17 @@
     <simbolo descr="velato" image_name="stratificata2_luna.png" image_type="C"/>
     <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">25</temp> 
-    <temp temp_type="perc">25</temp>
+    <temp temp_type="">24</temp> 
+    <temp temp_type="perc">24</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>46</um>
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="4" ora="giorno" datadescr="Giovedì">
-    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
-    <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
-    <simbolo descr="stazionarie" image_name="temp_staz.png" image_type="T"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
+    <simbolo descr="diminuzione" image_name="temp_giu.png" image_type="T"/>
     <inversione>false</inversione>
     <quota_neve>-</quota_neve>
     <um></um>
