@@ -62,13 +62,13 @@
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Mercoledì">
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
