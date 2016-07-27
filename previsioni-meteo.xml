@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>26/07/2016 07:57</aggiornamento>
-<time_ms>1469512665000</time_ms>
+<aggiornamento>26/07/2016 15:44</aggiornamento>
+<time_ms>1469540695000</time_ms>
 <almanacco><sole_sorge>05:59</sole_sorge><sole_tramonta>20:45</sole_tramonta><sole_altezza>65.7°</sole_altezza><ora_altezza>13:22</ora_altezza><luna_sorge>-</luna_sorge><luna_tramonta>13:11</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
