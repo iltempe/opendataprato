@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>09/08/2016 09:35</aggiornamento>
-<time_ms>1470728127000</time_ms>
+<aggiornamento>09/08/2016 15:04</aggiornamento>
+<time_ms>1470747851000</time_ms>
 <almanacco><sole_sorge>06:14</sole_sorge><sole_tramonta>20:27</sole_tramonta><sole_altezza>62.1°</sole_altezza><ora_altezza>13:21</ora_altezza><luna_sorge>12:44</luna_sorge><luna_tramonta>23:50</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
@@ -114,7 +114,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="3" ora="giorno" datadescr="Giovedì">
-    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <uv>7</uv>
     <temp temp_type="min">18</temp> 
     <temp temp_type="max">27</temp> 
@@ -144,7 +144,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="3" ora="pomeriggio" datadescr="Giovedì">
-    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">27</temp> 
