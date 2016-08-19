@@ -2,11 +2,11 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>18/08/2016 09:19</aggiornamento>
-<time_ms>1471504742000</time_ms>
+<aggiornamento>18/08/2016 15:55</aggiornamento>
+<time_ms>1471528516000</time_ms>
 <almanacco><sole_sorge>06:24</sole_sorge><sole_tramonta>20:14</sole_tramonta><sole_altezza>59.3°</sole_altezza><ora_altezza>13:19</ora_altezza><luna_sorge>20:16</luna_sorge><luna_tramonta>06:18</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
-    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <uv>5</uv>
     <temp temp_type="min">24</temp>
     <temp temp_type="max">28</temp>
@@ -33,7 +33,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="1" ora="pomeriggio" datadescr="Giovedì">
-    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">28</temp> 
@@ -114,7 +114,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="3" ora="giorno" datadescr="Sabato">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <uv>7</uv>
     <temp temp_type="min">20</temp> 
     <temp temp_type="max">31</temp> 
@@ -123,7 +123,7 @@
     <um>0</um>
 </previsione>
 <previsione idday="3" ora="notte" datadescr="Sabato">
-    <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">20</temp> 
@@ -133,7 +133,7 @@
     <um>84</um>
 </previsione>
 <previsione idday="3" ora="mattina" datadescr="Sabato">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">25</temp> 
@@ -175,7 +175,7 @@
 </previsione>
 <previsione idday="5" ora="giorno" datadescr="Lunedì">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
-    <simbolo descr="NO moderato" image_name="vento_no_2.png" image_type="W"/>
+    <simbolo descr="NE moderato" image_name="vento_ne_2.png" image_type="W"/>
     <simbolo descr="diminuzione" image_name="temp_giu.png" image_type="T"/>
     <inversione>false</inversione>
     <quota_neve>-</quota_neve>
