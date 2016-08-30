@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>29/08/2016 14:18</aggiornamento>
-<time_ms>1472473113000</time_ms>
+<aggiornamento>29/08/2016 15:18</aggiornamento>
+<time_ms>1472476737000</time_ms>
 <almanacco><sole_sorge>06:36</sole_sorge><sole_tramonta>19:56</sole_tramonta><sole_altezza>55.6°</sole_altezza><ora_altezza>13:16</ora_altezza><luna_sorge>03:27</luna_sorge><luna_tramonta>18:08</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
