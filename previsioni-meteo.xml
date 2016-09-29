@@ -2,15 +2,15 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>29/09/2016 08:48</aggiornamento>
-<time_ms>1475131691000</time_ms>
+<aggiornamento>29/09/2016 14:38</aggiornamento>
+<time_ms>1475152689000</time_ms>
 <almanacco><sole_sorge>07:11</sole_sorge><sole_tramonta>19:00</sole_tramonta><sole_altezza>43.8°</sole_altezza><ora_altezza>13:06</ora_altezza><luna_sorge>05:27</luna_sorge><luna_tramonta>18:27</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <uv>4</uv>
     <temp temp_type="min">19</temp>
-    <temp temp_type="max">26</temp>
-    <inversione>false</inversione>
+    <temp temp_type="max">25</temp>
+    <inversione>true</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
     <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
@@ -36,7 +36,7 @@
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">26</temp> 
+    <temp temp_type="">25</temp> 
     <temp temp_type="perc">25</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
@@ -59,16 +59,16 @@
     <uv>4</uv>
     <temp temp_type="min">15</temp> 
     <temp temp_type="max">24</temp> 
-    <inversione>false</inversione>
+    <inversione>true</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Venerdì">
     <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
@@ -106,8 +106,8 @@
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">20</temp>
-    <temp temp_type="perc">20</temp>
+    <temp temp_type="">19</temp>
+    <temp temp_type="perc">19</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>69</um>
@@ -116,7 +116,7 @@
 <previsione idday="3" ora="giorno" datadescr="Sabato">
     <simbolo descr="coperto" image_name="coperto.png" image_type="C"/>
     <uv>4</uv>
-    <temp temp_type="min">17</temp> 
+    <temp temp_type="min">15</temp> 
     <temp temp_type="max">24</temp> 
     <inversione>false</inversione>
     <quota_neve></quota_neve>
@@ -126,8 +126,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">17</temp> 
-    <temp temp_type="perc">17</temp>
+    <temp temp_type="">15</temp> 
+    <temp temp_type="perc">15</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>73</um>
@@ -136,8 +136,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">20</temp> 
-    <temp temp_type="perc">20</temp>
+    <temp temp_type="">19</temp> 
+    <temp temp_type="perc">19</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>83</um>
@@ -155,7 +155,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="3" ora="sera" datadescr="Sabato">
-    <simbolo descr="coperto" image_name="coperto_luna.png" image_type="C"/>
+    <simbolo descr="pioggia debole" image_name="pioggia_debole1_luna.png" image_type="C"/>
     <simbolo descr="SE debole" image_name="vento_se_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">20</temp> 
@@ -167,18 +167,18 @@
 </previsione>
 <previsione idday="4" ora="giorno" datadescr="Domenica">
     <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3.png" image_type="C"/>
-    <simbolo descr="SO moderato" image_name="vento_so_2.png" image_type="W"/>
+    <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
     <simbolo descr="stazionarie" image_name="temp_staz.png" image_type="T"/>
-    <inversione></inversione>
+    <inversione>false</inversione>
     <quota_neve>3000</quota_neve>
     <um></um>
 </previsione>
-<previsione idday="5" ora="" datadescr="">
-    <simbolo descr="" image_name="" image_type="C"/>
-    <simbolo descr="" image_name="" image_type="W"/>
-    <simbolo descr="" image_name="" image_type="T"/>
-    <inversione></inversione>
-    <quota_neve></quota_neve>
+<previsione idday="5" ora="giorno" datadescr="Lunedì">
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="N debole" image_name="vento_n_1.png" image_type="W"/>
+    <simbolo descr="diminuzione" image_name="temp_giu.png" image_type="T"/>
+    <inversione>false</inversione>
+    <quota_neve>-</quota_neve>
     <um></um>
 </previsione>
 </dati>
