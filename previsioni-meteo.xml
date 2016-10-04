@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>03/10/2016 14:55</aggiornamento>
-<time_ms>1475499342000</time_ms>
+<aggiornamento>03/10/2016 15:15</aggiornamento>
+<time_ms>1475500517000</time_ms>
 <almanacco><sole_sorge>07:16</sole_sorge><sole_tramonta>18:53</sole_tramonta><sole_altezza>42.2°</sole_altezza><ora_altezza>13:04</ora_altezza><luna_sorge>09:22</luna_sorge><luna_tramonta>20:22</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3.png" image_type="C"/>
@@ -33,7 +33,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="1" ora="pomeriggio" datadescr="Lunedì">
-    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="N debole" image_name="vento_n_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">25</temp> 
