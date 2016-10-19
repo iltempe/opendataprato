@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>18/10/2016 09:45</aggiornamento>
-<time_ms>1476776719000</time_ms>
+<aggiornamento>18/10/2016 15:15</aggiornamento>
+<time_ms>1476796503000</time_ms>
 <almanacco><sole_sorge>07:34</sole_sorge><sole_tramonta>18:27</sole_tramonta><sole_altezza>36.6°</sole_altezza><ora_altezza>13:00</ora_altezza><luna_sorge>20:30</luna_sorge><luna_tramonta>10:01</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="pioggia debole" image_name="pioggia_debole1.png" image_type="C"/>
     <uv>1</uv>
-    <temp temp_type="min">15</temp>
-    <temp temp_type="max">18</temp>
+    <temp temp_type="min">16</temp>
+    <temp temp_type="max">19</temp>
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -25,19 +25,19 @@
     <simbolo descr="pioggia debole" image_name="pioggia_debole1.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">16</temp>
-    <temp temp_type="perc">16</temp>
+    <temp temp_type="">17</temp>
+    <temp temp_type="perc">17</temp>
     <inversione></inversione>
     <quota_neve>2600</quota_neve>
     <um>86</um>
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="1" ora="pomeriggio" datadescr="Martedì">
-    <simbolo descr="coperto" image_name="coperto.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">18</temp> 
-    <temp temp_type="perc">18</temp>
+    <temp temp_type="">19</temp> 
+    <temp temp_type="perc">19</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>77</um>
@@ -47,8 +47,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">15</temp> 
-    <temp temp_type="perc">15</temp>
+    <temp temp_type="">16</temp> 
+    <temp temp_type="perc">16</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>85</um>
@@ -133,7 +133,7 @@
     <um>83</um>
 </previsione>
 <previsione idday="3" ora="mattina" datadescr="Giovedì">
-    <simbolo descr="coperto" image_name="coperto.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">16</temp> 
