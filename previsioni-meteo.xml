@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>03/11/2016 09:34</aggiornamento>
-<time_ms>1478162061000</time_ms>
+<aggiornamento>03/11/2016 15:29</aggiornamento>
+<time_ms>1478183355000</time_ms>
 <almanacco><sole_sorge>06:54</sole_sorge><sole_tramonta>17:04</sole_tramonta><sole_altezza>31.2°</sole_altezza><ora_altezza>11:59</ora_altezza><luna_sorge>09:59</luna_sorge><luna_tramonta>19:50</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <uv>2</uv>
-    <temp temp_type="min">12</temp>
-    <temp temp_type="max">18</temp>
+    <temp temp_type="min">13</temp>
+    <temp temp_type="max">19</temp>
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -36,8 +36,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="NE moderato" image_name="vento_ne_2.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">18</temp> 
-    <temp temp_type="perc">18</temp>
+    <temp temp_type="">19</temp> 
+    <temp temp_type="perc">19</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>80</um>
@@ -47,8 +47,8 @@
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">12</temp> 
-    <temp temp_type="perc">11</temp>
+    <temp temp_type="">13</temp> 
+    <temp temp_type="perc">13</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>73</um>
