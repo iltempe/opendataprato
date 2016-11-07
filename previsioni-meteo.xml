@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>07/11/2016 09:42</aggiornamento>
-<time_ms>1478508160000</time_ms>
+<aggiornamento>07/11/2016 12:24</aggiornamento>
+<time_ms>1478517851000</time_ms>
 <almanacco><sole_sorge>06:59</sole_sorge><sole_tramonta>16:59</sole_tramonta><sole_altezza>30.0°</sole_altezza><ora_altezza>11:59</ora_altezza><luna_sorge>13:00</luna_sorge><luna_tramonta>23:27</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
@@ -13,9 +13,9 @@
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="basso" image_name="basso.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
     <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="basso" image_name="idrogeologico_basso.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
     <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
     <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
     <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
@@ -62,13 +62,13 @@
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Martedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
