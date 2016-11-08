@@ -2,11 +2,11 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>07/11/2016 12:24</aggiornamento>
-<time_ms>1478517851000</time_ms>
+<aggiornamento>07/11/2016 15:13</aggiornamento>
+<time_ms>1478528001000</time_ms>
 <almanacco><sole_sorge>06:59</sole_sorge><sole_tramonta>16:59</sole_tramonta><sole_altezza>30.0°</sole_altezza><ora_altezza>11:59</ora_altezza><luna_sorge>13:00</luna_sorge><luna_tramonta>23:27</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
-    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <uv>1</uv>
     <temp temp_type="min">11</temp>
     <temp temp_type="max">17</temp>
@@ -33,7 +33,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="1" ora="pomeriggio" datadescr="Lunedì">
-    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">17</temp> 
