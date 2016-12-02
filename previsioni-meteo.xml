@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>01/12/2016 09:33</aggiornamento>
-<time_ms>1480581187000</time_ms>
+<aggiornamento>01/12/2016 16:49</aggiornamento>
+<time_ms>1480607362000</time_ms>
 <almanacco><sole_sorge>07:29</sole_sorge><sole_tramonta>16:40</sole_tramonta><sole_altezza>24.6°</sole_altezza><ora_altezza>12:05</ora_altezza><luna_sorge>08:47</luna_sorge><luna_tramonta>18:34</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
@@ -58,7 +58,7 @@
     <simbolo descr="coperto" image_name="coperto.png" image_type="C"/>
     <uv>1</uv>
     <temp temp_type="min">8</temp> 
-    <temp temp_type="max">15</temp> 
+    <temp temp_type="max">14</temp> 
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -95,8 +95,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
     <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">15</temp> 
-    <temp temp_type="perc">15</temp>
+    <temp temp_type="">14</temp> 
+    <temp temp_type="perc">14</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>65</um>
@@ -106,8 +106,8 @@
     <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">11</temp>
-    <temp temp_type="perc">10</temp>
+    <temp temp_type="">10</temp>
+    <temp temp_type="perc">9</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>79</um>
