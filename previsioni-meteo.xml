@@ -4,7 +4,7 @@
 <comune>Prato</comune>
 <aggiornamento>12/12/2016 08:57</aggiornamento>
 <time_ms>1481529464000</time_ms>
-<almanacco><sole_sorge>07:40</sole_sorge><sole_tramonta>16:39</sole_tramonta><sole_altezza>23.3°</sole_altezza><ora_altezza>12:09</ora_altezza><luna_sorge>15:50</luna_sorge><luna_tramonta>05:19</luna_tramonta><fase></fase></almanacco>
+<almanacco><sole_sorge>07:40</sole_sorge><sole_tramonta>16:39</sole_tramonta><sole_altezza>23.3°</sole_altezza><ora_altezza>12:09</ora_altezza><luna_sorge>HASH(0x18b8348)</luna_sorge><luna_tramonta>HASH(0x13c4b48)</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <uv>1</uv>
@@ -62,13 +62,13 @@
     <inversione>true</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Martedì">
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
