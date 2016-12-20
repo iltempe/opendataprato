@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>19/12/2016 09:35</aggiornamento>
-<time_ms>1482136535000</time_ms>
+<aggiornamento>19/12/2016 15:15</aggiornamento>
+<time_ms>1482156947000</time_ms>
 <almanacco><sole_sorge>07:45</sole_sorge><sole_tramonta>16:41</sole_tramonta><sole_altezza>23.0°</sole_altezza><ora_altezza>12:13</ora_altezza><luna_sorge>23:02</luna_sorge><luna_tramonta>11:37</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Lunedì">
     <simbolo descr="coperto" image_name="coperto.png" image_type="C"/>
     <uv>1</uv>
-    <temp temp_type="min">3</temp>
-    <temp temp_type="max">7</temp>
+    <temp temp_type="min">4</temp>
+    <temp temp_type="max">10</temp>
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -22,11 +22,11 @@
     <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="1" ora="mattina" datadescr="Lunedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">3</temp>
-    <temp temp_type="perc">1</temp>
+    <temp temp_type="">4</temp>
+    <temp temp_type="perc">2</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>75</um>
@@ -36,8 +36,8 @@
     <simbolo descr="coperto" image_name="coperto.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">7</temp> 
-    <temp temp_type="perc">5</temp>
+    <temp temp_type="">10</temp> 
+    <temp temp_type="perc">9</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>55</um>
@@ -47,8 +47,8 @@
     <simbolo descr="coperto" image_name="coperto_luna.png" image_type="C"/>
     <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">7</temp> 
-    <temp temp_type="perc">5</temp>
+    <temp temp_type="">8</temp> 
+    <temp temp_type="perc">7</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>77</um>
