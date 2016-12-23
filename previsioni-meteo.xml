@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>23/12/2016 08:09</aggiornamento>
-<time_ms>1482476983000</time_ms>
+<aggiornamento>23/12/2016 13:57</aggiornamento>
+<time_ms>1482497861000</time_ms>
 <almanacco><sole_sorge>07:47</sole_sorge><sole_tramonta>16:43</sole_tramonta><sole_altezza>23.0°</sole_altezza><ora_altezza>12:15</ora_altezza><luna_sorge>02:01</luna_sorge><luna_tramonta>13:31</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Venerdì">
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <uv>1</uv>
-    <temp temp_type="min">6</temp>
-    <temp temp_type="max">13</temp>
+    <temp temp_type="min">5</temp>
+    <temp temp_type="max">11</temp>
     <inversione>true</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -25,8 +25,8 @@
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">7</temp>
-    <temp temp_type="perc">7</temp>
+    <temp temp_type="">6</temp>
+    <temp temp_type="perc">6</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>49</um>
@@ -36,8 +36,8 @@
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="NO debole" image_name="vento_no_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">13</temp> 
-    <temp temp_type="perc">13</temp>
+    <temp temp_type="">11</temp> 
+    <temp temp_type="perc">10</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>28</um>
@@ -47,8 +47,8 @@
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">6</temp> 
-    <temp temp_type="perc">6</temp>
+    <temp temp_type="">5</temp> 
+    <temp temp_type="perc">5</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>48</um>
@@ -62,13 +62,13 @@
     <inversione>true</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Sabato">
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
