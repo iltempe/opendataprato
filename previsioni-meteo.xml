@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>17/01/2017 09:33</aggiornamento>
-<time_ms>1484641991000</time_ms>
+<aggiornamento>17/01/2017 15:35</aggiornamento>
+<time_ms>1484663744000</time_ms>
 <almanacco><sole_sorge>07:45</sole_sorge><sole_tramonta>17:07</sole_tramonta><sole_altezza>25.8°</sole_altezza><ora_altezza>12:26</ora_altezza><luna_sorge>22:49</luna_sorge><luna_tramonta>10:36</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="neve debole" image_name="neve_debole.png" image_type="C"/>
@@ -23,10 +23,10 @@
 </previsione>
 <previsione idday="1" ora="mattina" datadescr="Martedì">
     <simbolo descr="neve debole" image_name="neve_debole.png" image_type="C"/>
-    <simbolo descr="NE forte" image_name="vento_ne_3.png" image_type="W"/>
+    <simbolo descr="NE moderato" image_name="vento_ne_2.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">3</temp>
-    <temp temp_type="perc">-4</temp>
+    <temp temp_type="perc">-2</temp>
     <inversione></inversione>
     <quota_neve>1</quota_neve>
     <um>45</um>
@@ -166,8 +166,8 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="4" ora="giorno" datadescr="Venerdì">
-    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
-    <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
+    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
     <simbolo descr="aumento" image_name="temp_su.png" image_type="T"/>
     <inversione>false</inversione>
     <quota_neve>-</quota_neve>
@@ -175,7 +175,7 @@
 </previsione>
 <previsione idday="5" ora="giorno" datadescr="Sabato">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
-    <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
+    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
     <simbolo descr="aumento" image_name="temp_su.png" image_type="T"/>
     <inversione>false</inversione>
     <quota_neve>-</quota_neve>
