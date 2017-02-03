@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>02/02/2017 09:42</aggiornamento>
-<time_ms>1486024968000</time_ms>
+<aggiornamento>02/02/2017 15:18</aggiornamento>
+<time_ms>1486045112000</time_ms>
 <almanacco><sole_sorge>07:31</sole_sorge><sole_tramonta>17:28</sole_tramonta><sole_altezza>29.8°</sole_altezza><ora_altezza>12:30</ora_altezza><luna_sorge>10:30</luna_sorge><luna_tramonta>23:38</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
     <simbolo descr="pioggia debole" image_name="pioggia_debole1.png" image_type="C"/>
-    <uv>0</uv>
-    <temp temp_type="min">11</temp>
-    <temp temp_type="max">13</temp>
+    <uv>1</uv>
+    <temp temp_type="min">10</temp>
+    <temp temp_type="max">12</temp>
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -36,8 +36,8 @@
     <simbolo descr="pioggia debole" image_name="pioggia_debole1.png" image_type="C"/>
     <simbolo descr="S debole" image_name="vento_s_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">13</temp> 
-    <temp temp_type="perc">13</temp>
+    <temp temp_type="">12</temp> 
+    <temp temp_type="perc">11</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
@@ -47,8 +47,8 @@
     <simbolo descr="coperto" image_name="coperto_luna.png" image_type="C"/>
     <simbolo descr="E debole" image_name="vento_e_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">11</temp> 
-    <temp temp_type="perc">10</temp>
+    <temp temp_type="">10</temp> 
+    <temp temp_type="perc">9</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
