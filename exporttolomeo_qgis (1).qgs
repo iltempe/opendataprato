@@ -1,0 +1,1875 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="1.8.0-Lisboa">
+    <title></title>
+ 	<mapcanvas>
+        <units>meters</units>
+        <extent>
+            <xmin>1626727.0</xmin>
+            <ymin>4835211.0</ymin>
+            <xmax>1710705.0</xmax>
+            <ymax>4886963.0</ymax>
+        </extent>
+        <projections>0</projections>
+        <destinationsrs>
+            <spatialrefsys>
+                <srid>3003</srid>
+                <authid>EPSG:3003</authid>
+            </spatialrefsys>
+        </destinationsrs>
+    	</mapcanvas>
+ 	<legend updateDrawingOrder="true">
+		<legendgroup open="true" checked="Qt::Unchecked" name="Il disegno dei fabbricati (XVI-XVIII sec.)">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Il disegno dei fabbricati (XVI-XVIII sec.)" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_01_disegno_fabbricati_xvi_xviii_sec94727" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+		<legendgroup open="true" checked="Qt::Unchecked" name="I Rilevamenti Seriali (XVI - XIX sec.)">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Il territorio nel '500" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_02_territorio_50080439" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Il territorio nel '700" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_03_territorio_70063542" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Il territorio nell'800" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_04_territorio_80014256" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Censimento del 1881" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_05_censimento_188126243" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+		<legendgroup open="true" checked="Qt::Unchecked" name="Acque e gore (XVI - XIX sec.)">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Reticolo Idrografico" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_06_reticolo_idrografico83274" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Le acque" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_07_acque10350" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+		<legendgroup open="true" checked="Qt::Unchecked" name="Citt&agrave; e sistema poderale (XVI - XX sec.)">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Citt&agrave; e campagna" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_08_citta_campagna86187" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Le grandi aree" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_09_grandi_aree49740" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="La citt&agrave; del Meucci" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_10_citta_meucci33196" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+		<legendgroup open="true" checked="Qt::Unchecked" name="Viabilit&agrave; ed insediamento (XVI - XIX sec.)">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Viabilit&agrave; persistenze XVI - XIX sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_11_viabilita_persistenze_xvi_xix_sec9856" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="L'insediamento persistenze XVI-XIX sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_12_insediamento_persistenze_xvi_xix_sec24680" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="La viabilit&agrave; nel XVI sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_13_viabilita_xvi_sec18804" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="L'insediamento nel XVI sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_14_insediamento_xvi_sec12186" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="La viabilit&agrave; nel XVIII sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_15_viabilita_xviii_sec97043" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="L'insediamento nel XVIII sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_16_insediamento_xviii_sec20637" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="La vialbilit&agrave; nel XIX sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_17_viabilita_xix_sec88021" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="L'insediamento nel XIX sec." showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_18_insediamento_xix_sec51809" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+		<legendgroup open="true" checked="Qt::Unchecked" name="Carta Tecnica Regionale">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Reticolo Carta Tecnica Regionale 1:5.000" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:segni_tema_reticolo_500065908" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+		<legendgroup open="false" checked="Qt::Unchecked" name="Foto aeree">
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2013" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2013_comunepo_etichette89875" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 8 marzo 2011" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2011_etichette36997" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2010" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2010_etichette17233" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2009" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2009_etichette63679" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2008" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2008_etichette48331" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2007" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2007_etichette40492" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2006" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2006_etichette44071" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2005" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2005_etichette61661" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto satellitari 2004" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2004SAT_etichette83356" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2003" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2003_etichette75270" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2002" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2002_etichette54335" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 1998" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1998_etichette83162" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 1996" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1996_etichette65151" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 1978" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1978_etichette10476" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+			<legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 1954" showFeatureCount="0">
+    			<filegroup open="false" hidden="false">
+       				<legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1954_etichette95107" visible="0"/>
+    			</filegroup>
+			</legendlayer>
+ 		</legendgroup>
+    </legend>
+	<projectlayers layercount="34">
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_01_disegno_fabbricati_xvi_xviii_sec94727</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Il disegno dei fabbricati (XVI-XVIII sec.)</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_01_disegno_fabbricati_xvi_xviii_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_02_territorio_50080439</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Il territorio nel '500</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_02_territorio_500</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_03_territorio_70063542</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Il territorio nel '700</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_03_territorio_700</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_04_territorio_80014256</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Il territorio nell'800</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_04_territorio_800</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_05_censimento_188126243</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Censimento del 1881</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_05_censimento_1881</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_06_reticolo_idrografico83274</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Reticolo Idrografico</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_06_reticolo_idrografico</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_07_acque10350</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Le acque</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_07_acque</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_08_citta_campagna86187</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Citt&agrave; e campagna</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_08_citta_campagna</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_09_grandi_aree49740</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Le grandi aree</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_09_grandi_aree</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_10_citta_meucci33196</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>La citt&agrave; del Meucci</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_10_citta_meucci</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_11_viabilita_persistenze_xvi_xix_sec9856</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Viabilit&agrave; persistenze XVI - XIX sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_11_viabilita_persistenze_xvi_xix_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_12_insediamento_persistenze_xvi_xix_sec24680</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>L'insediamento persistenze XVI-XIX sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_12_insediamento_persistenze_xvi_xix_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_13_viabilita_xvi_sec18804</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>La viabilit&agrave; nel XVI sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_13_viabilita_xvi_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_14_insediamento_xvi_sec12186</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>L'insediamento nel XVI sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_14_insediamento_xvi_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_15_viabilita_xviii_sec97043</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>La viabilit&agrave; nel XVIII sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_15_viabilita_xviii_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_16_insediamento_xviii_sec20637</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>L'insediamento nel XVIII sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_16_insediamento_xviii_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_17_viabilita_xix_sec88021</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>La vialbilit&agrave; nel XIX sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_17_viabilita_xix_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_18_insediamento_xix_sec51809</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>L'insediamento nel XIX sec.</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_18_insediamento_xix_sec</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:segni_tema_reticolo_500065908</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Reticolo Carta Tecnica Regionale 1:5.000</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:segni_tema_reticolo_5000</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2013_comunepo_etichette89875</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2013</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2013_comunepo_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2011_etichette36997</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 8 marzo 2011</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2011_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2010_etichette17233</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2010</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2010_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2009_etichette63679</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2009</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2009_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2008_etichette48331</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2008</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2008_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2007_etichette40492</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2007</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2007_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2006_etichette44071</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2006</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2006_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2005_etichette61661</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2005</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2005_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2004SAT_etichette83356</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto satellitari 2004</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2004SAT_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2003_etichette75270</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2003</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2003_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto2002_etichette54335</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 2002</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto2002_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto1998_etichette83162</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 1998</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto1998_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto1996_etichette65151</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 1996</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto1996_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto1978_etichette10476</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 1978</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto1978_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+		<maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+	        <id>spxg_comunepo:ortofoto1954_etichette95107</id>
+	        <datasource><![CDATA[http://geoserver.comune.prato.it:80/geoserver/wms]]></datasource>
+	        <title></title>
+	        <abstract></abstract>
+	        <layername>Foto aeree 1954</layername>
+	        <srs>
+	            <spatialrefsys>
+                	<srid>3003</srid>
+                	<authid>EPSG:3003</authid>
+	            </spatialrefsys>
+	        </srs>
+	        <transparencyLevelInt>255</transparencyLevelInt>
+	        <customproperties/>
+	        <provider>wms</provider>
+	        <rasterproperties>
+	            <wmsSublayer>
+	                <name>comunepo:ortofoto1954_etichette</name>
+	                <style></style>
+	            </wmsSublayer>
+	            <wmsFormat>image/png</wmsFormat>
+	            <mDrawingStyle>SingleBandColorDataStyle</mDrawingStyle>
+	            <mColorShadingAlgorithm>UndefinedShader</mColorShadingAlgorithm>
+	            <mInvertColor boolean="false"/>
+	            <mRedBandName></mRedBandName>
+	            <mGreenBandName></mGreenBandName>
+	            <mBlueBandName></mBlueBandName>
+	            <mGrayBandName>Banda 1</mGrayBandName>
+	            <mStandardDeviations>0</mStandardDeviations>
+	            <mUserDefinedRGBMinimumMaximum boolean="false"/>
+	            <mRGBMinimumMaximumEstimated boolean="true"/>
+	            <mUserDefinedGrayMinimumMaximum boolean="false"/>
+	            <mGrayMinimumMaximumEstimated boolean="true"/>
+	            <mContrastEnhancementAlgorithm>NoEnhancement</mContrastEnhancementAlgorithm>
+	            <contrastEnhancementMinMaxValues>
+	                <minMaxEntry>
+	                    <min>-1.79769e+308</min>
+	                    <max>1.79769e+308</max>
+	                </minMaxEntry>
+	            </contrastEnhancementMinMaxValues>
+	            <mNoDataValue mValidNoDataValue="true">0.000000</mNoDataValue>
+	            <singleValuePixelList>
+	                <pixelListEntry pixelValue="0.000000" percentTransparent="100"/>
+	            </singleValuePixelList>
+	            <threeValuePixelList>
+	                <pixelListEntry red="0.000000" blue="0.000000" green="0.000000" percentTransparent="100" />
+	            </threeValuePixelList>
+	        </rasterproperties>
+	    </maplayer>
+
+  </projectlayers>
+</qgis>
