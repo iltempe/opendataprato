@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>22/03/2017 08:36</aggiornamento>
-<time_ms>1490168192000</time_ms>
+<aggiornamento>22/03/2017 15:05</aggiornamento>
+<time_ms>1490191508000</time_ms>
 <almanacco><sole_sorge>06:15</sole_sorge><sole_tramonta>18:30</sole_tramonta><sole_altezza>47.3°</sole_altezza><ora_altezza>12:23</ora_altezza><luna_sorge>02:45</luna_sorge><luna_tramonta>12:36</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Mercoledì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
@@ -92,7 +92,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="2" ora="pomeriggio" datadescr="Giovedì">
-    <simbolo descr="temporale" image_name="temporale.png" image_type="C"/>
+    <simbolo descr="pioggia moderata-forte" image_name="pioggia_debole.png" image_type="C"/>
     <simbolo descr="N debole" image_name="vento_n_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">16</temp> 
@@ -158,8 +158,8 @@
     <simbolo descr="velato" image_name="stratificata2_luna.png" image_type="C"/>
     <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">15</temp> 
-    <temp temp_type="perc">15</temp>
+    <temp temp_type="">13</temp> 
+    <temp temp_type="perc">13</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>63</um>
