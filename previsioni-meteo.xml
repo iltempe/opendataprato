@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>30/03/2017 09:14</aggiornamento>
-<time_ms>1490858044000</time_ms>
+<aggiornamento>30/03/2017 14:42</aggiornamento>
+<time_ms>1490877777000</time_ms>
 <almanacco><sole_sorge>07:01</sole_sorge><sole_tramonta>19:40</sole_tramonta><sole_altezza>50.4°</sole_altezza><ora_altezza>13:20</ora_altezza><luna_sorge>08:40</luna_sorge><luna_tramonta>22:35</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
@@ -58,17 +58,17 @@
     <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
     <uv>5</uv>
     <temp temp_type="min">7</temp> 
-    <temp temp_type="max">23</temp> 
+    <temp temp_type="max">24</temp> 
     <inversione>true</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="NA" image_name="NA.png" image_type="A"/>
-    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
-    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
-    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
-    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
+    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
+    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
+    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
+    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
+    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
 <previsione idday="2" ora="notte" datadescr="Venerdì">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
@@ -95,8 +95,8 @@
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">23</temp> 
-    <temp temp_type="perc">23</temp>
+    <temp temp_type="">24</temp> 
+    <temp temp_type="perc">24</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>28</um>
@@ -168,7 +168,7 @@
 <previsione idday="4" ora="giorno" datadescr="Domenica">
     <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
     <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
-    <simbolo descr="stazionarie" image_name="temp_staz.png" image_type="T"/>
+    <simbolo descr="diminuzione" image_name="temp_giu.png" image_type="T"/>
     <inversione>false</inversione>
     <quota_neve>2600</quota_neve>
     <um></um>
