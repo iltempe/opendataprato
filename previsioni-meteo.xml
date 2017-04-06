@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>05/04/2017 09:00</aggiornamento>
-<time_ms>1491375624000</time_ms>
+<aggiornamento>05/04/2017 15:03</aggiornamento>
+<time_ms>1491397399000</time_ms>
 <almanacco><sole_sorge>06:50</sole_sorge><sole_tramonta>19:47</sole_tramonta><sole_altezza>52.7°</sole_altezza><ora_altezza>13:18</ora_altezza><luna_sorge>13:54</luna_sorge><luna_tramonta>03:43</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Mercoledì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
@@ -55,7 +55,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="2" ora="giorno" datadescr="Giovedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3.png" image_type="C"/>
     <uv>3</uv>
     <temp temp_type="min">8</temp> 
     <temp temp_type="max">19</temp> 
@@ -92,7 +92,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="2" ora="pomeriggio" datadescr="Giovedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3.png" image_type="C"/>
     <simbolo descr="SE debole" image_name="vento_se_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">19</temp> 
