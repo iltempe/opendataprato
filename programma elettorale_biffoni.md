@@ -329,10 +329,7 @@ nuovi linguaggi creativi e tecnologici.
 **Distretto tecnologico**
 A Prato esiste già una filiera nutrita di imprese artigiane nel settore ICT, che avrà un effetto positivo
 sul sistema manifatturiero tradizionale se sapremo giocare bene le carte della tecnologia,
-incrementando le competenze, connettendo le imprese innovative con quelle tradizionali,
-
-
-disseminando la conoscenza scientifica.
+incrementando le competenze, connettendo le imprese innovative con quelle tradizionali, disseminando la conoscenza scientifica.
 
 ### Sì a Prato città della tecnologia e dell'innovazione infrastrutturale digitale
 
@@ -535,7 +532,6 @@ investimenti.
 
 ### Sì a un centro storico più bello e vivibile
 
-```
 ● Mobilità: ridefinire i confini di ZTL e APU garantendo il rispetto anche attraverso l’uso dei
 varchi elettronici condividendo le modalità con commercianti e residenti
 ● Sperimentazione delle Zone 30, con limite a 30 chilometri per favorire convivenza tra auto,
@@ -546,9 +542,6 @@ architettoniche.
 e sicuri.
 ● Renderemo sicuri e accessibili di giorno e di notte i parcheggi limitrofi al centro anche
 attraverso un meccanismo di incentivi; promuoveremo un piano dei parcheggi che permetta,
-```
-
-```
 anche attraverso il project financing, la nascita di posti auto per residenti a un prezzo
 calmierato per liberare le nostre splendide piazze dalle auto.
 ● Nuova vita per le aree verdi della Passerella e di Sant’Orsola: chioschi gestiti dalle
@@ -566,7 +559,7 @@ valorizzi il lavoro dei commercianti ambulanti. Ci impegniamo ad individuare l�
 adatta a costruire un mercato coperto e a farlo con progetti all’altezza della città
 contemporanea che vogliamo promuovere. Sarà nostra priorità farlo attraverso la
 partecipazione dei commercianti e dei cittadini.
-```
+
 ### Sì alla valorizzazione delle frazioni
 
 Prendersi cura della città vuol dire avere a cuore le frazioni e metterle al centro della politica
@@ -588,7 +581,6 @@ monitorare l’iter interno al Comune per la soluzione dei problemi segnalati.
 
 Rendere la città accessibile a tutti è una priorità della nostra amministrazione. Ci impegniamo a
 rendere la città completamente accessibile a carrozzine e passeggini entro la fine della legislatura.
-
 
 ### Una nuova cultura della mobilità sostenibile
 
@@ -683,7 +675,6 @@ per viaggiare in tutto il mondo, e allo stesso tempo sostenibile. A tal proposit
 investire le ingenti risorse pubbliche che sarebbero necessarie per costruire il nuovo aeroporto, per
 avere collegamenti veloci e frequenti da e per l’aeroporto di Pisa e per collegare Prato con l’alta
 velocità.
-
 
 ### Sì alla manutenzione delle strade con il coinvolgimento dei cittadini
 
@@ -879,8 +870,6 @@ inclusione sociale anche per le famiglie. In questa ottica va potenziato anche i
 comunità cinese, in un’ottica di partecipazione e collaborazione al benessere di tutti i ragazzi.
 Da 0 a 18 anni la scuola deve essere pensata come un percorso unico, soprattutto per affrontare il
 problema delle dispersione scolastica. Nonostante negli ultimi 3 anni l’abbandono sia sceso
-
-
 dell’1,5% assestandosi al 18,5% grazie al lavoro coordinato di rete scolastica, istituzioni e Centro
 per l’impiego, dobbiamo lavorare per raggiungere l’obiettivo di Europa 2020.
 
@@ -927,8 +916,6 @@ digitali.
 Il Centro territoriale permanente è il punto di riferimento per l’educazione degli adulti, ma è
 necessario un collegamento stretto tra sistema scolastico, formazione professionale, servizi per
 l'impiego, reti civiche delle iniziative per l'educazione permanente degli adulti, infrastrutture culturali
-
-
 (biblioteche, musei, teatri), imprese, associazioni (culturali, del volontariato sociale, del tempo
 libero, delle famiglie) e università.
 
@@ -969,7 +956,6 @@ culturale esistente attraverso la creazione di eventi condivisi e non sovrappost
 biglietti flessibili a musei, cinema, teatri. L’integrazione passa anche dall’uso di strumenti come una
 app, da far sviluppare al polo dell’ICT pratese, che permetta di usufruire di guide turistiche digitali,
 prenotazioni on line, il cartellone sempre aggiornato.
-
 
 ### Sì alla valorizzazione del sistema museale e alla promozione di un festival internazionale
 
@@ -1029,7 +1015,6 @@ investimenti in cultura da parte di privati e imprese.
 Della scommessa sul futuro culturale di Prato saranno protagonisti coloro che in questi anni hanno
 dato alla un ruolo importante in Italia e a livello internazionale:
 
-```
 ● Teatro Stabile Metastasio, luogo per eccellenza di produzione e sperimentazione artistica,
 insieme al Fabbricone e al Fabbrichino, residenza della compagnia TPO, dovrà confermare
 la propria caratura regionale, garantendo una programmazione di rilievo e continuare
@@ -1063,9 +1048,6 @@ economica dell’età preindustriale.
 ● Museo del Tessuto: il valore del nostro museo sarà ancora più forte se riusciremo a
 collegarlo coi circuiti del sistema moda e al rilancio dei tessuti pratesi attraverso i grandi
 marchi della moda.
-```
-
-```
 ● Scuola di musica Verdi, Camerata Strumentale, Teatro Magnolfi, il prezioso e variegato
 associazionismo culturale cittadino, le fondazioni e gli archivi e tutti gli spazi teatrali e di
 sperimentazione attivi e diffusi in città.
@@ -1075,7 +1057,7 @@ per progetti su corsi di lingue o ripetizioni gratuite e servizi e un Punto Giov
 la gestione degli spazi che deve essere affidata alla rete delle associazioni giovanili di
 Prato. Con la riqualificazione della piazza Macelli affinché diventi un piazzale vivo, libero
 dalle macchine e aperto alla città.
-```
+
 ### Si alla valorizzazione dell’area archeologica di Gonfienti
 
 Il sito etrusco è un bene ambientale e culturale che necessita di ulteriori studi di approfondimento
@@ -1114,8 +1096,6 @@ costruire le future politiche sportive per Prato.
 Occorre elaborare un piano complessivo di gestione, manutenzioni, restyling e messa a norma
 degli impianti, in collaborazione con le società e le scuole, con conseguente riesame di regolamenti
 e convenzioni.
-
-
 La maggior parte degli impianti è stata costruita oltre 20-25 anni fa, con tutti i problemi derivanti da
 un patrimonio datato, che oltretutto non conta su strutture in grado di ospitare eventi sportivi di
 elevata qualità.
@@ -1165,15 +1145,10 @@ d’integrazione organizzato.
 A Prato abbiamo molti eventi che da anni sono protagonisti della vetrina sportiva regionale e anche
 nazionale e una vocazione sportiva costruita in decenni di attività. Dobbiamo puntarci facendone
 un’ulteriore attrattiva per i flussi turistico-sportivi, attraverso sinergie e reti di collaborazione
-
-
 pubblico-private che coinvolgano innanzitutto le strutture sportive e quelle ricettive. Si tratta di un
 vero e proprio segmento economico su cui, per esempio, alcune città americane hanno costruito la
 propria fortuna. Ed è una scommessa che Prato è in grado di fare, con progetti validi e la giusta
-governance
-
-.
-
+governance.
 
 ## .Obiettivo bene comune: nessuno deve rimanere indietro
 
@@ -1217,8 +1192,6 @@ popolazione, la mancanza di volontari che è la materia prima su cui si basa la 
 mettendo in seria difficoltà anche il volontariato. Giovani alla disperata ricerca di un lavoro e anziani
 sempre più impegnati nel volontariato domestico, che sostituisce i servizi mancanti alle famiglie,
 lasciano sempre più posti vuoti nelle file delle associazioni.
-
-
 Attraverso accordi con i dirigenti scolastici affinché il volontariato faccia parte di quelle attività
 extrascolastiche che concorrono ai crediti scolastici e offrendo ai giovani dei benefit scelti in
 accordo ai loro interessi: biglietti per il cinema, per il teatro, per mostre e musei, per acquisto libri,
@@ -1298,7 +1271,7 @@ l’inserimento lavorativo di persone svantaggiate, per esempio sul tema della c
 accoglienza sociale, sarà centrale nel prossimo futuro.
 
 
-## La Prato dei diritti di tutt*
+## La Prato dei diritti di tutti*
 
 I diritti delle persone, la tutela e il riconoscimento di nuovi diritti devono essere il campo di sfida per
 fare di Prato una vera capitale del pluralismo.
@@ -1309,9 +1282,7 @@ l’opportunità di sviluppare l’identità e il progetto di vita di ognuno.
 
 ### Si a una città viva e moderna che realizza politiche di genere
 
-Prato deve valorizzare le competenze e le potenzialità dei cittadini, rimuovendo gli ostacoli che
-
-### potrebbero porsi alla realizzazione di pari opportunità per tutti. Per fare questo vogliamo:
+Prato deve valorizzare le competenze e le potenzialità dei cittadini, rimuovendo gli ostacoli che potrebbero porsi alla realizzazione di pari opportunità per tutti. Per fare questo vogliamo:
 
 - Realizzare il bilancio di genere per valorizzare tutti quegli interventi che hanno ricadute
     positive sulla vita delle donne ed evidenziarne i bisogni e le necessità.
@@ -1343,9 +1314,7 @@ gay, bisessuali e trans, favorendo progetti e iniziative per i diritti e promuov
     le discriminazioni per orientamento sessuale e identità di genere, per avviare un
     confronto e una condivisione delle buone pratiche con le altre amministrazioni locali.
 - Lottare contro la violenza alle donne sostenendo i centri antiviolenza e facendo
-    costituire il Comune parte civile nei processi per violenza contro le donne nei processi
-
-### relativi ad azioni razziste, xenofobe e omofobe.
+    costituire il Comune parte civile nei processi per violenza contro le donne nei processi relativi ad azioni razziste, xenofobe e omofobe.
 
 
 ## Nuovi cittadini. Le nostre politiche per l’inclusione.
@@ -1362,28 +1331,21 @@ per ogni valutazione o progetto che riguardi la nostra realtà, appare utile sof
 azioni che hanno caratterizzato l'azione amministrativa degli ultimi anni e valutarne la bontà o un
 eventuale sviluppo futuro.
 
-### ● Il primo punto riguarda la scuola e la capacità che ha avuto il territorio di fare sintesi e di
-
-```
+● Il primo punto riguarda la scuola e la capacità che ha avuto il territorio di fare sintesi e di
 trovare una via replicabile negli anni. Il ruolo dell'amministrazione comunale è servito a
 creare professionalità elevate ed una progettualità nell'inserimento dei minori stranieri nelle
 scuole da cui non si può prescindere. Fondamentale perciò riflettere sul futuro ruolo
 dell'amministrazione comunale nell'inserimento dei bimbi e comprendere quali sono gli
-```
-### errori da non commettere in futuro
+errori da non commettere in futuro
 
-### ● La città deve essere studiata di più. Ad oggi non dobbiamo costruire una migliore analisi dei
-
-```
+● La città deve essere studiata di più. Ad oggi non dobbiamo costruire una migliore analisi dei
 processi avvenuti negli ultimi decenni nel nostro territorio. Spesso la percezione ha
 soppiantato l'analisi mentre i rapporti sociali sono mutati. Occorre prevedere la promozione
 di studi mirati ad aiutarci a comprendere la nostra realtà. L'esempio paradigmatico è
-```
-### rappresentato dalle aziende a conduzione cinese ed dai loro legami con la città
+rappresentato dalle aziende a conduzione cinese ed dai loro legami con la città
 
-### ● L'amministrazione si è dotata di una importante struttura all'interno dell'assessorato
+● L'amministrazione si è dotata di una importante struttura all'interno dell'assessorato
 
-```
 all'Immigrazione e Cittadinanza. I servizi offerti ai cittadini stranieri sono importanti e di
 qualità. È evidente però che ad una crescita dell'ufficio comunale si è riscontrata una
 regressione degli altri uffici, associativi e non, che nel passato offrivano assistenza. Si sente
@@ -1391,41 +1353,28 @@ la necessità di ricreare le condizione per una sinergia territoriale che possa 
 dell'ufficio comunale più punti territoriali, più presidi informativi su quello che accade in città
 e su tutti i diritti e doveri che devono fare capo ad un cittadino. Occorre perciò ripensare alla
 strutturazione dei servizi offerti dall'Assessorato ed alla modalità di collaborazione con altri
-```
-### soggetti.
+soggetti.
 
-### ● Le politiche, anche quelle di controllo e repressione, necessitano del coinvolgimento e
-
-```
+● Le politiche, anche quelle di controllo e repressione, necessitano del coinvolgimento e
 coordinamento di tutte le istituzioni presenti sul territorio. Ribadiamo l'importanza dei tavoli
 interistituzionali (primo fra tutti il Consiglio Territoriale per l'Immigrazione) e di trovare il
-```
-### giusto ruolo di tutti i soggetti nell'applicazione di politiche concordate;
+giusto ruolo di tutti i soggetti nell'applicazione di politiche concordate;
 
-### ● L'amministrazione comunale dovrà continuare il suo percorso di accoglienza SPRAR e
+● L'amministrazione comunale dovrà continuare il suo percorso di accoglienza SPRAR e
 
-```
 garantire accoglienza ai rifugiati (che è finanziata da fondi Statali). Dovranno essere
 promosse serie politiche di rimpatrio assistito, utilizzando i canali ad oggi messi a
-```
-### disposizione del Governo.
+disposizione del Governo.
 
-
-### ● L'amministrazione comunale deve riprendere il suo ruolo di proposta politica al Governo,
-
-```
+● L'amministrazione comunale deve riprendere il suo ruolo di proposta politica al Governo,
 ruolo che negli ultimi cinque anni è stato del tutto dimenticato. È necessario ribadire
 l'importanza del passaggio di competenze sui rinnovi dei titoli di soggiorno dalle Questure ai
 Comuni, liberando le forze di Polizia da un compito inutile e gravoso e permettendo al
-```
-### Comune un miglior controllo e un servizio più efficace.
+Comune un miglior controllo e un servizio più efficace.
 
-### ● L'amministrazione dovrà farsi carico, dopo cinque anni di abbandono, di riallacciare i
-
-```
+● L'amministrazione dovrà farsi carico, dopo cinque anni di abbandono, di riallacciare i
 rapporti con le realtà associative e culturali presenti sul territorio, creando un tavolo dove
-```
-### condividere esperienze e proposte.
+condividere esperienze e proposte.
 
 
 ## Sicurezza e legalità: il nostro impegno
