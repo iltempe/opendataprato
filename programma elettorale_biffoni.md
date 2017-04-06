@@ -25,7 +25,7 @@
    - Sport: non solo agonismo ma educazione, integrazione e benessere per tutti
 - .Obiettivo bene comune: nessuno deve rimanere indietro
    - Un altro welfare
-- La Prato dei diritti di tutt*
+- La Prato dei diritti di tutti
 - Nuovi cittadini. Le nostre politiche per l’inclusione.
 - Sicurezza e legalità: il nostro impegno
 - Apriamo il Comune ai cittadini: promuoviamo la partecipazione
