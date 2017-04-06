@@ -1284,17 +1284,11 @@ l’opportunità di sviluppare l’identità e il progetto di vita di ognuno.
 
 Prato deve valorizzare le competenze e le potenzialità dei cittadini, rimuovendo gli ostacoli che potrebbero porsi alla realizzazione di pari opportunità per tutti. Per fare questo vogliamo:
 
-- Realizzare il bilancio di genere per valorizzare tutti quegli interventi che hanno ricadute
-    positive sulla vita delle donne ed evidenziarne i bisogni e le necessità.
-- Incentivare l'imprenditoria femminile premiando i progetti più creativi delle donne che
-    vogliono mettersi in proprio.
-- Sostenere il lavoro della consigliera di parità nella sua attività di promozione delle
-    differenza di genere e di aiuto alle donne discriminate sul lavoro.
-- Promuovere la salute delle donne attivando percorsi di salute partecipata con incontri di
-    informazione e sensibilizzazione sul territorio.
-- Lottare contro gli stereotipi di genere sorvegliando i messaggi lanciati dalla pubblicità e
-    dai mezzi di comunicazione e con un intenso lavoro di sensibilizzazione della
-    cittadinanza e in particolare delle giovani generazioni.
+- Realizzare il bilancio di genere per valorizzare tutti quegli interventi che hanno ricadute positive sulla vita delle donne ed evidenziarne i bisogni e le necessità.
+- Incentivare l'imprenditoria femminile premiando i progetti più creativi delle donne che vogliono mettersi in proprio.
+- Sostenere il lavoro della consigliera di parità nella sua attività di promozione delle differenza di genere e di aiuto alle donne discriminate sul lavoro.
+- Promuovere la salute delle donne attivando percorsi di salute partecipata con incontri di informazione e sensibilizzazione sul territorio.
+- Lottare contro gli stereotipi di genere sorvegliando i messaggi lanciati dalla pubblicità e dai mezzi di comunicazione e con un intenso lavoro di sensibilizzazione della cittadinanza e in particolare delle giovani generazioni.
 - Ricercare la parità di genere per tutti gli incarichi pubblici di competenza del comune.
 
 ## No alle discriminazioni
@@ -1306,15 +1300,10 @@ gay, bisessuali e trans, favorendo progetti e iniziative per i diritti e promuov
 
 ### In particolare:
 
-- Campagne di sensibilizzazione e comunicazione. Per permettere a tutte e a tutti di
-    conoscere e non discriminare.
-- Progetti formativi nelle scuole. Sia per gli insegnanti che per gli studenti e le loro
-    famiglie per educare alla conoscenza.
-- Collaborazione con RE.A.DY. La rete nazionale delle pubbliche amministrazioni contro
-    le discriminazioni per orientamento sessuale e identità di genere, per avviare un
-    confronto e una condivisione delle buone pratiche con le altre amministrazioni locali.
-- Lottare contro la violenza alle donne sostenendo i centri antiviolenza e facendo
-    costituire il Comune parte civile nei processi per violenza contro le donne nei processi relativi ad azioni razziste, xenofobe e omofobe.
+- Campagne di sensibilizzazione e comunicazione. Per permettere a tutte e a tutti di conoscere e non discriminare.
+- Progetti formativi nelle scuole. Sia per gli insegnanti che per gli studenti e le loro famiglie per educare alla conoscenza.
+- Collaborazione con RE.A.DY. La rete nazionale delle pubbliche amministrazioni contro le discriminazioni per orientamento sessuale e identità di genere, per avviare un confronto e una condivisione delle buone pratiche con le altre amministrazioni locali.
+- Lottare contro la violenza alle donne sostenendo i centri antiviolenza e facendo costituire il Comune parte civile nei processi per violenza contro le donne nei processi relativi ad azioni razziste, xenofobe e omofobe.
 
 
 ## Nuovi cittadini. Le nostre politiche per l’inclusione.
