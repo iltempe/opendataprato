@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>20/04/2017 08:53</aggiornamento>
-<time_ms>1492671222000</time_ms>
+<aggiornamento>20/04/2017 15:13</aggiornamento>
+<time_ms>1492693980000</time_ms>
 <almanacco><sole_sorge>06:25</sole_sorge><sole_tramonta>20:05</sole_tramonta><sole_altezza>58.1°</sole_altezza><ora_altezza>13:15</ora_altezza><luna_sorge>03:05</luna_sorge><luna_tramonta>13:18</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Giovedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
