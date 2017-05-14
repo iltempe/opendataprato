@@ -2,11 +2,11 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>13/05/2017 09:16</aggiornamento>
-<time_ms>1494659783000</time_ms>
-<almanacco><sole_sorge>05:53</sole_sorge><sole_tramonta>20:32</sole_tramonta><sole_altezza>65.0°</sole_altezza><ora_altezza>13:12</ora_altezza><luna_sorge>22:46</luna_sorge><luna_tramonta>07:48</luna_tramonta><fase></fase></almanacco>
-<previsione idday="1" ora="giorno" datadescr="Sabato">
-    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
+<aggiornamento>14/05/2017 09:04</aggiornamento>
+<time_ms>1494745486000</time_ms>
+<almanacco><sole_sorge>05:52</sole_sorge><sole_tramonta>20:33</sole_tramonta><sole_altezza>65.2°</sole_altezza><ora_altezza>13:12</ora_altezza><luna_sorge>23:36</luna_sorge><luna_tramonta>08:31</luna_tramonta><fase></fase></almanacco>
+<previsione idday="1" ora="giorno" datadescr="Domenica">
+    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
     <uv>7</uv>
     <temp temp_type="min">18</temp>
     <temp temp_type="max">24</temp>
@@ -21,19 +21,19 @@
     <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
     <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
 </previsione>
-<previsione idday="1" ora="mattina" datadescr="Sabato">
+<previsione idday="1" ora="mattina" datadescr="Domenica">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
-    <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
+    <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">20</temp>
-    <temp temp_type="perc">20</temp>
+    <temp temp_type="">19</temp>
+    <temp temp_type="perc">19</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
     <prob_rain></prob_rain>
 </previsione>
-<previsione idday="1" ora="pomeriggio" datadescr="Sabato">
-    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
+<previsione idday="1" ora="pomeriggio" datadescr="Domenica">
+    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">24</temp> 
@@ -43,8 +43,8 @@
     <um>0</um>
     <prob_rain></prob_rain>
 </previsione>
-<previsione idday="1" ora="sera" datadescr="Sabato">
-    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
+<previsione idday="1" ora="sera" datadescr="Domenica">
+    <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">18</temp> 
@@ -54,23 +54,75 @@
     <um>0</um>
     <prob_rain></prob_rain>
 </previsione>
-<previsione idday="2" ora="giorno" datadescr="Domenica">
-    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
-    <uv>7</uv>
-    <temp temp_type="min">13</temp> 
-    <temp temp_type="max">25</temp> 
-    <inversione>true</inversione>
+<previsione idday="2" ora="giorno" datadescr="Lunedì">
+    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
+    <uv>6</uv>
+    <temp temp_type="min">12</temp> 
+    <temp temp_type="max">24</temp> 
+    <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
-    <allerta value="nessuno" image_name="nessuno.png" image_type="A"/>
-    <rischio descr="idraulico" value="nessuno" image_name="idraulico_nessuno.png" image_type="A"/>
-    <rischio descr="idrogeologico" value="nessuno" image_name="idrogeologico_nessuno.png" image_type="A"/>
-    <rischio descr="temporali" value="nessuno" image_name="temporali_nessuno.png" image_type="A"/>
-    <rischio descr="vento" value="nessuno" image_name="vento_nessuno.png" image_type="A"/>
-    <rischio descr="neve" value="nessuno" image_name="neve_nessuno.png" image_type="A"/>
-    <rischio descr="ghiaccio" value="nessuno" image_name="ghiaccio_nessuno.png" image_type="A"/>
+    <allerta value="NA" image_name="NA.png" image_type="A"/>
+    <rischio descr="idraulico" value="NA" image_name="idraulico_NA.png" image_type="A"/>
+    <rischio descr="idrogeologico" value="NA" image_name="idrogeologico_NA.png" image_type="A"/>
+    <rischio descr="temporali" value="NA" image_name="temporali_NA.png" image_type="A"/>
+    <rischio descr="vento" value="NA" image_name="vento_NA.png" image_type="A"/>
+    <rischio descr="neve" value="NA" image_name="neve_NA.png" image_type="A"/>
+    <rischio descr="ghiaccio" value="NA" image_name="ghiaccio_NA.png" image_type="A"/>
 </previsione>
-<previsione idday="2" ora="notte" datadescr="Domenica">
+<previsione idday="2" ora="notte" datadescr="Lunedì">
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso_luna.png" image_type="C"/>
+    <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
+    <uv></uv>
+    <temp temp_type="">12</temp> 
+    <temp temp_type="perc">12</temp>
+    <inversione></inversione>
+    <quota_neve>9999</quota_neve>
+    <um>0</um>
+</previsione>
+<previsione idday="2" ora="mattina" datadescr="Lunedì">
+    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
+    <uv></uv>
+    <temp temp_type="">18</temp> 
+    <temp temp_type="perc">18</temp>
+    <inversione></inversione>
+    <quota_neve>9999</quota_neve>
+    <um>0</um>
+    <prob_rain></prob_rain>
+</previsione>
+<previsione idday="2" ora="pomeriggio" datadescr="Lunedì">
+    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2.png" image_type="C"/>
+    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
+    <uv></uv>
+    <temp temp_type="">24</temp> 
+    <temp temp_type="perc">24</temp>
+    <inversione></inversione>
+    <quota_neve>9999</quota_neve>
+    <um>0</um>
+    <prob_rain></prob_rain>
+</previsione>
+<previsione idday="2" ora="sera" datadescr="Lunedì">
+    <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
+    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
+    <uv></uv>
+    <temp temp_type="">18</temp>
+    <temp temp_type="perc">18</temp>
+    <inversione></inversione>
+    <quota_neve>9999</quota_neve>
+    <um>0</um>
+    <prob_rain></prob_rain>
+</previsione>
+<previsione idday="3" ora="giorno" datadescr="Martedì">
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
+    <uv>8</uv>
+    <temp temp_type="min">13</temp> 
+    <temp temp_type="max">27</temp> 
+    <inversione>false</inversione>
+    <quota_neve></quota_neve>
+    <um>0</um>
+</previsione>
+<previsione idday="3" ora="notte" datadescr="Martedì">
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
@@ -80,105 +132,53 @@
     <quota_neve>9999</quota_neve>
     <um>0</um>
 </previsione>
-<previsione idday="2" ora="mattina" datadescr="Domenica">
+<previsione idday="3" ora="mattina" datadescr="Martedì">
+    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
+    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
+    <uv></uv>
+    <temp temp_type="">20</temp> 
+    <temp temp_type="perc">20</temp>
+    <inversione></inversione>
+    <quota_neve>9999</quota_neve>
+    <um>0</um>
+    <prob_rain></prob_rain>
+</previsione>
+<previsione idday="3" ora="pomeriggio" datadescr="Martedì">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
-    <simbolo descr="SO debole" image_name="vento_so_1.png" image_type="W"/>
+    <simbolo descr="NE moderato" image_name="vento_ne_2.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">19</temp> 
-    <temp temp_type="perc">19</temp>
-    <inversione></inversione>
-    <quota_neve>9999</quota_neve>
-    <um>0</um>
-    <prob_rain></prob_rain>
-</previsione>
-<previsione idday="2" ora="pomeriggio" datadescr="Domenica">
-    <simbolo descr="velato" image_name="stratificata2.png" image_type="C"/>
-    <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
-    <uv></uv>
-    <temp temp_type="">25</temp> 
+    <temp temp_type="">27</temp> 
     <temp temp_type="perc">24</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
     <prob_rain></prob_rain>
 </previsione>
-<previsione idday="2" ora="sera" datadescr="Domenica">
-    <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
-    <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
-    <uv></uv>
-    <temp temp_type="">19</temp>
-    <temp temp_type="perc">19</temp>
-    <inversione></inversione>
-    <quota_neve>9999</quota_neve>
-    <um>0</um>
-    <prob_rain></prob_rain>
-</previsione>
-<previsione idday="3" ora="giorno" datadescr="Lunedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
-    <uv>7</uv>
-    <temp temp_type="min">14</temp> 
-    <temp temp_type="max">24</temp> 
-    <inversione>false</inversione>
-    <quota_neve></quota_neve>
-    <um>0</um>
-</previsione>
-<previsione idday="3" ora="notte" datadescr="Lunedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso_luna.png" image_type="C"/>
-    <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
-    <uv></uv>
-    <temp temp_type="">14</temp> 
-    <temp temp_type="perc">14</temp>
-    <inversione></inversione>
-    <quota_neve>9999</quota_neve>
-    <um>0</um>
-</previsione>
-<previsione idday="3" ora="mattina" datadescr="Lunedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
-    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
-    <uv></uv>
-    <temp temp_type="">19</temp> 
-    <temp temp_type="perc">19</temp>
-    <inversione></inversione>
-    <quota_neve>9999</quota_neve>
-    <um>0</um>
-    <prob_rain></prob_rain>
-</previsione>
-<previsione idday="3" ora="pomeriggio" datadescr="Lunedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
-    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
-    <uv></uv>
-    <temp temp_type="">24</temp> 
-    <temp temp_type="perc">24</temp>
-    <inversione></inversione>
-    <quota_neve>9999</quota_neve>
-    <um>0</um>
-    <prob_rain></prob_rain>
-</previsione>
-<previsione idday="3" ora="sera" datadescr="Lunedì">
+<previsione idday="3" ora="sera" datadescr="Martedì">
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
-    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
+    <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">18</temp> 
-    <temp temp_type="perc">18</temp>
+    <temp temp_type="">20</temp> 
+    <temp temp_type="perc">20</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
     <prob_rain></prob_rain>
 </previsione>
-<previsione idday="4" ora="giorno" datadescr="Martedì">
+<previsione idday="4" ora="giorno" datadescr="Mercoledì">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
-    <simbolo descr="aumento" image_name="temp_su.png" image_type="T"/>
-    <inversione>false</inversione>
+    <simbolo descr="stazionarie" image_name="temp_staz.png" image_type="T"/>
+    <inversione></inversione>
     <quota_neve>-</quota_neve>
     <um></um>
 </previsione>
-<previsione idday="5" ora="giorno" datadescr="Mercoledì">
-    <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
-    <simbolo descr="NE debole" image_name="vento_ne_1.png" image_type="W"/>
-    <simbolo descr="stazionarie" image_name="temp_staz.png" image_type="T"/>
-    <inversione>false</inversione>
-    <quota_neve>-</quota_neve>
+<previsione idday="5" ora="" datadescr="">
+    <simbolo descr="" image_name="" image_type="C"/>
+    <simbolo descr="" image_name="" image_type="W"/>
+    <simbolo descr="" image_name="" image_type="T"/>
+    <inversione></inversione>
+    <quota_neve></quota_neve>
     <um></um>
 </previsione>
 </dati>
