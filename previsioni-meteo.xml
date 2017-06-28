@@ -2,8 +2,8 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>27/06/2017 14:49</aggiornamento>
-<time_ms>1498567774000</time_ms>
+<aggiornamento>27/06/2017 17:06</aggiornamento>
+<time_ms>1498576019000</time_ms>
 <almanacco><sole_sorge>05:37</sole_sorge><sole_tramonta>21:01</sole_tramonta><sole_altezza>69.8°</sole_altezza><ora_altezza>13:19</ora_altezza><luna_sorge>09:27</luna_sorge><luna_tramonta>23:40</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Martedì">
     <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
@@ -103,7 +103,7 @@
     <prob_rain>0</prob_rain>
 </previsione>
 <previsione idday="2" ora="sera" datadescr="Mercoledì">
-    <simbolo descr="pioggia debole e schiarite" image_name="pioggia_sole3_luna.png" image_type="C"/>
+    <simbolo descr="pioggia e schiarite" image_name="pioggia_sole2_luna.png" image_type="C"/>
     <simbolo descr="SO moderato" image_name="vento_so_2.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">25</temp>
@@ -144,7 +144,7 @@
     <prob_rain>0</prob_rain>
 </previsione>
 <previsione idday="3" ora="pomeriggio" datadescr="Giovedì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="SO forte" image_name="vento_so_3.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">26</temp> 
