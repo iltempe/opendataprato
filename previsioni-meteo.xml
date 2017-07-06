@@ -2,14 +2,14 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>05/07/2017 11:41</aggiornamento>
-<time_ms>1499247663000</time_ms>
+<aggiornamento>05/07/2017 15:27</aggiornamento>
+<time_ms>1499261232000</time_ms>
 <almanacco><sole_sorge>05:41</sole_sorge><sole_tramonta>20:59</sole_tramonta><sole_altezza>69.2°</sole_altezza><ora_altezza>13:20</ora_altezza><luna_sorge>17:42</luna_sorge><luna_tramonta>03:12</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Mercoledì">
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <uv>9</uv>
     <temp temp_type="min">24</temp>
-    <temp temp_type="max">33</temp>
+    <temp temp_type="max">34</temp>
     <inversione>false</inversione>
     <quota_neve></quota_neve>
     <um>0</um>
@@ -25,8 +25,8 @@
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">25</temp>
-    <temp temp_type="perc">24</temp>
+    <temp temp_type="">26</temp>
+    <temp temp_type="perc">25</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
@@ -36,8 +36,8 @@
     <simbolo descr="sereno" image_name="sereno.png" image_type="C"/>
     <simbolo descr="O debole" image_name="vento_o_1.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">33</temp> 
-    <temp temp_type="perc">31</temp>
+    <temp temp_type="">34</temp> 
+    <temp temp_type="perc">32</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
