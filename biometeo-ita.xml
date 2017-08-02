@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <bollettino>
-	<data_emissione>2017-08-01T08:38:55.550</data_emissione>
+	<data_emissione>2017-08-02T10:42:33.170</data_emissione>
 	<ente>Università di Firenze</ente>
 	<webhome>www.biometeo.it</webhome>
 	<firma>Centro Interdipartimentale di Bioclimatologia (CIBIC)  </firma>
@@ -10,7 +10,7 @@
 		<lon>11°5′47.62″E</lon>
 		<quota>61 m</quota>
 		<CAP_cod>59100</CAP_cod>
-		<data_riferimento_oggi>2017-08-01</data_riferimento_oggi>
+		<data_riferimento_oggi>2017-08-02</data_riferimento_oggi>
 		<classe_data_oggi>oggi</classe_data_oggi>
 		<Tapp_max_oggi>40</Tapp_max_oggi>
 		<Tapp_min_oggi>23</Tapp_min_oggi>
@@ -39,7 +39,7 @@
 		<Tend_max_4giorno_oggi>3</Tend_max_4giorno_oggi>
 		<Tend_min_5giorno_oggi>3</Tend_min_5giorno_oggi>
 		<Tend_max_5giorno_oggi>3</Tend_max_5giorno_oggi>
-		<data_riferimento_domani>2017-08-02</data_riferimento_domani>
+		<data_riferimento_domani>2017-08-03</data_riferimento_domani>
 		<classe_data_domani>domani</classe_data_domani>
 		<Tapp_max_domani>41</Tapp_max_domani>
 		<Tapp_min_domani>23</Tapp_min_domani>
@@ -68,7 +68,7 @@
 		<Tend_max_4giorno_domani>3</Tend_max_4giorno_domani>
 		<Tend_min_5giorno_domani>3</Tend_min_5giorno_domani>
 		<Tend_max_5giorno_domani>3</Tend_max_5giorno_domani>
-		<data_riferimento_dopodomani>2017-08-03</data_riferimento_dopodomani>
+		<data_riferimento_dopodomani>2017-08-04</data_riferimento_dopodomani>
 		<classe_data_dopodomani>dopodomani</classe_data_dopodomani>
 		<Tapp_max_dopodomani>40</Tapp_max_dopodomani>
 		<Tapp_min_dopodomani>24</Tapp_min_dopodomani>
