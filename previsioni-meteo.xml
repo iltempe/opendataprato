@@ -2,11 +2,11 @@
 <dati>
 <img_path><![CDATA[http://www.lamma.rete.toscana.it/previ/ita/xml/comuni_web/simboli_grandi/]]></img_path>
 <comune>Prato</comune>
-<aggiornamento>11/08/2017 09:32</aggiornamento>
-<time_ms>1502436728000</time_ms>
+<aggiornamento>11/08/2017 15:54</aggiornamento>
+<time_ms>1502459675000</time_ms>
 <almanacco><sole_sorge>06:16</sole_sorge><sole_tramonta>20:25</sole_tramonta><sole_altezza>61.6°</sole_altezza><ora_altezza>13:21</ora_altezza><luna_sorge>22:31</luna_sorge><luna_tramonta>09:56</luna_tramonta><fase></fase></almanacco>
 <previsione idday="1" ora="giorno" datadescr="Venerdì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <uv>6</uv>
     <temp temp_type="min">22</temp>
     <temp temp_type="max">27</temp>
@@ -33,7 +33,7 @@
     <prob_rain></prob_rain>
 </previsione>
 <previsione idday="1" ora="pomeriggio" datadescr="Venerdì">
-    <simbolo descr="nuvoloso" image_name="nuvoloso.png" image_type="C"/>
+    <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
     <simbolo descr="SO forte" image_name="vento_so_3.png" image_type="W"/>
     <uv></uv>
     <temp temp_type="">27</temp> 
@@ -115,8 +115,8 @@
 </previsione>
 <previsione idday="3" ora="giorno" datadescr="Domenica">
     <simbolo descr="poco nuvoloso" image_name="poco_nuvoloso.png" image_type="C"/>
-    <uv>7</uv>
-    <temp temp_type="min">17</temp> 
+    <uv>6</uv>
+    <temp temp_type="min">16</temp> 
     <temp temp_type="max">32</temp> 
     <inversione>false</inversione>
     <quota_neve></quota_neve>
@@ -126,8 +126,8 @@
     <simbolo descr="sereno" image_name="sereno_luna.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">17</temp> 
-    <temp temp_type="perc">17</temp>
+    <temp temp_type="">16</temp> 
+    <temp temp_type="perc">16</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
@@ -158,8 +158,8 @@
     <simbolo descr="velato" image_name="stratificata2_luna.png" image_type="C"/>
     <simbolo descr="variabile" image_name="vento_ass.png" image_type="W"/>
     <uv></uv>
-    <temp temp_type="">26</temp> 
-    <temp temp_type="perc">26</temp>
+    <temp temp_type="">25</temp> 
+    <temp temp_type="perc">25</temp>
     <inversione></inversione>
     <quota_neve>9999</quota_neve>
     <um>0</um>
